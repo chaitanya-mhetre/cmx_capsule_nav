@@ -66,14 +66,18 @@ class CmxCapsuleNavTheme {
       inactiveColor: primaryColor,
       activeShadow: [
         BoxShadow(
-          color: primaryColor.withOpacity(0.4),
+          color: primaryColor.withValues(
+            alpha: (0.4 * 255).roundToDouble() / 255,
+          ),
           blurRadius: 15,
           offset: const Offset(0, 8),
         ),
       ],
       inactiveShadow: [
         BoxShadow(
-          color: primaryColor.withOpacity(0.2),
+          color: primaryColor.withValues(
+            alpha: (0.2 * 255).roundToDouble() / 255,
+          ),
           blurRadius: 15,
           offset: const Offset(0, 8),
         ),

@@ -1,9 +1,9 @@
 name: cmx_capsule_nav
 description: A beautiful, custom animated floating capsule-style navigation bar for Flutter.
-version: 0.0.1
-homepage: https://github.com/chaitanya-mhetre/smart-planner
-repository: https://github.com/chaitanya-mhetre/smart-planner/tree/main/@package/cmx_capsule_nav
-issue_tracker: https://github.com/chaitanya-mhetre/smart-planner/issues
+version: 0.0.2
+homepage: https://github.com/chaitanya-mhetre/cmx_capsule_nav
+repository: https://github.com/chaitanya-mhetre/cmx_capsule_nav
+issue_tracker: https://github.com/chaitanya-mhetre/cmx_capsule_nav/issues
 
 environment:
   sdk: ^3.9.2
