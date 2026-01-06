@@ -1,7 +1,7 @@
 # cmx_capsule_nav
 
-![cmx_capsule_nav showcase](screenshots/showcase_v2.png)
-![cmx_capsule_nav example](screenshots/example.png)
+![cmx_capsule_nav showcase](https://raw.githubusercontent.com/chaitanya-mhetre/cmx_capsule_nav/main/screenshots/showcase_v2.png)
+![cmx_capsule_nav example](https://raw.githubusercontent.com/chaitanya-mhetre/cmx_capsule_nav/main/screenshots/example.png)
 
 A premium, custom animated floating capsule-style navigation bar for Flutter. Designed for modern apps that crave a unique, fluid, and interactive navigation experience.
 

@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Fix image display issues on pub.dev by using absolute URLs.
+
 ## 0.0.2
 
 * Fix deprecated `Color.withOpacity` usage (replaced with `Color.withValues`).
